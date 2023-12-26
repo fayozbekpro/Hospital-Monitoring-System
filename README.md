@@ -13,6 +13,10 @@
 
 
 More details with images:
+
+------------
+
+<br><br><br><br><br><br>
 <img src="https://raw.githubusercontent.com/fayozbekpro/Hospital-Monitoring-System/main/Screenshot_1.png" width="500" alt="EXAMPLES"/>
    <br /><br />
  <img src="https://raw.githubusercontent.com/fayozbekpro/Hospital-Monitoring-System/main/Screenshot_2.png" width="500" alt="EXAMPLES"/>
